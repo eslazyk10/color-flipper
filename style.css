@@ -45,11 +45,12 @@ h1{
     margin-top: 300px;
 }
 
-.hex-color-value, .simple-color-value{
+.color{
     color: lightskyblue;
 }
 
-button{
+
+#btn{
     margin-top: 30px;
     color: black;
     border: 3px solid black;
@@ -59,7 +60,7 @@ button{
     text-transform: uppercase;
 }
 
-button:hover{
+#btn:hover{
     background-color: black;
     color: white;
 }
